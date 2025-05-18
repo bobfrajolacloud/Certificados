@@ -5,7 +5,7 @@ Repositório com meus certificados e formações.
 - **Introdução ao Power BI (3h)**  
   Instituição: Universidad Peruana de Ciencias Aplicadas (UPC) – Becas Grupo Romero  
   Conteúdo: Conceitos básicos de BI, visualização de dados e questionários teóricos.  
-  Certificado: [ver PDF](https://github.com/bobfrajolacloud/certificados/blob/main/BI.PDF.pdf
+  Certificado: [ver PDF](https://github.com/bobfrajolacloud/certificados/blob/main/BI.pdf
 )
 
 ## 🔧 Em breve
